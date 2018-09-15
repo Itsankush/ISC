@@ -5,7 +5,7 @@
 body{
 	background-color: white;
 	font-family: Helvetica, Verdana, Arial;
-	color: #005847;
+	color: #6846b8;
 	-webkit-font-smoothing: antialiased;
 }
 .header{
@@ -21,7 +21,7 @@ body{
 	display: inline-block;
 }
 .nav{
-	background-color: #8ec640;
+	background-color: #3e135a;
 	width: 100%;
 }
 #ul1{
@@ -49,7 +49,7 @@ nav > ul > li > a > .caret{
     list-style:none;
     margin:0;
     padding:0;
-    background-color:#8ec640;
+    background-color:#3e135a;
 	color: #ffffff;
 }
 .nav ul:before,.nav ul:after {
@@ -65,7 +65,7 @@ nav > ul > li > a > .caret{
 }
 .dropdown:hover .dropbtn{
 	background-color: #005847;
-	border-bottom: 5px solid #8ec640;
+	border-bottom: 5px solid #3e135a;
 }
 .nav a {
 	text-decoration: none;
@@ -95,7 +95,7 @@ nav > ul > li > a > .caret{
 }
 .nav li ul li {
     width:240px;
-	background-color: #005847;
+	background-color: #3e135a;
 	top: 2px;
 }
 .nav li ul a {
@@ -114,7 +114,7 @@ nav > ul > li > a > .caret{
     -webkit-transform:perspective(400) rotate3d(0,0,0,0);
 }
 .button {
-	background-color: #4CAF50; /* Green */
+	background-color: #3e135a; /* Green */
 	border: none;
 	color: white;
 	padding: 12px 27px;
@@ -132,7 +132,7 @@ nav > ul > li > a > .caret{
 	width: 48%;
 	border-radius: 10px;
 	color: #8ec640;
-	background-color:#005847;
+	background-color:#3e135a;
 	height: 350px;
 	float: left;
 	padding: 3px;
@@ -140,7 +140,7 @@ nav > ul > li > a > .caret{
 }
 #sec2{
 	width: 48%;
-	color: #8ec640;
+	color: #3e135a;
 	border-radius: 10px;
 	background-color:#005847;
 	float: right;
@@ -151,7 +151,7 @@ nav > ul > li > a > .caret{
 	text-align: center;
 }
 #sec2:hover{
-	background-color: #8ec640;
+	background-color:#3e135a;
 	opacity: 0.9;
 }
 #marquee{
@@ -173,8 +173,8 @@ nav > ul > li > a > .caret{
 }
 .button2 {
 	position: relative;
-	background-color: #8ec640;
-	color: #005847;
+	background-color: #3e135a;
+	color: #3e135a;
 	border: 2px solid #005847;
 }
 .button2:hover {
@@ -186,13 +186,13 @@ nav > ul > li > a > .caret{
 }
 .button1 {
 	background-color: white;
-	color: #005847;
-	border: 2px solid #005847;
+	color: #130058;
+	border: 2px solid #130058;
 }
 
 .button1:hover {
-	background-color: #005847;
-	color: #8ec640;
+	background-color: #130058;
+	color:#3e135a;
 }
 section{
 	width: 29%;
@@ -202,7 +202,7 @@ section{
 }
 footer{
 	position: bottom;
-	background: #8ec640;
+	background: #3e135a;
 	width: 100%;
 	overflow: hidden;
 	opacity: 0.90;
@@ -223,8 +223,8 @@ ul.social li img{
 }
 footer.second{
 	line-height: 30px;
-	border-top: 8px solid #005847;
-	background-color: #005847;
+	border-top: 8px solid #130058;
+	background-color: #130058;
 	max-height: 70px;
 	text-align: center;
 }
